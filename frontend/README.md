@@ -8,8 +8,8 @@ This project allows managing employees and tracking their attendance.
 
 ## 🚀 Live Demo
 
-Frontend: <ADD_FRONTEND_URL_HERE>  
-Backend API: <ADD_BACKEND_URL_HERE>
+Frontend: <https://hrms-rho-eight.vercel.app/>  
+Backend API: <https://hrms-438i.onrender.com/>
 
 ---
 
@@ -78,7 +78,7 @@ hrms/
 
 ### 1️⃣ Clone Repository
 
-git clone <YOUR_REPO_URL>
+git clone <https://github.com/Shubhampiet/HRMS.git>
 cd hrms
 
 
@@ -108,22 +108,7 @@ npm install
 
 
 ### Run Development Server
-
-
----
-
-## 🔐 Environment Variables
-
-### Backend (.env)
-
-MONGO_URL=your_mongodb_connection_string
-
-
-### Frontend (.env)
-
-VITE_API_URL=""
-
-
+npm run dev
 
 ---
 
